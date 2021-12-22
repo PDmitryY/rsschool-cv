@@ -8,6 +8,10 @@
 - E-mail: p.dmitry.y@gmail.com
 - GitHub: PDmitryY
 
+**About Myself:**
+
+
+
 
 **Skills:**
 - HTML 5
@@ -28,8 +32,9 @@
 **Education**
 - 2002-2007 BNTU
 - 2006-2007 IBT Atlant-M
-- 2015 Front-End course (IT Academy)
-- 2017 Front-End course (RSSchool)
+- 2015 "Современный Front-End с использованием HTML5 и JavaScript" (IT-Academy Belhard)
+- 2017 JavaScript/Front-End course (RSSchool)
+- Online courses, services and books (https://learn.javascript.ru, CS50, Codewars, Checkio...)
 
 **Languages:**
 - Belarusian (native)
@@ -40,6 +45,8 @@
 - German (basic knowledge)
 
 **Code example:**
+
+Function Cache KATA from CODEWARS: *If you are calculating complex things or execute time-consuming API calls, you sometimes want to cache the results. In this case we want you to create a function wrapper, which takes a function and caches its results depending on the arguments, that were applied to the function.*
 
 ```
 function cache(func) {
@@ -80,3 +87,8 @@ function cache(func) {
 }
 
 ```
+
+**My projects** 
+
+- https://pdmitryy.github.io/PDmitryY.game.github.io/
+- https://pdmitryy.github.io/youtube/
