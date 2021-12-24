@@ -8,7 +8,7 @@
 
 **About Myself:**
 
-[This is my photo](https://scontent.fmsq1-1.fna.fbcdn.net/v/t1.18169-9/12105786_888215801256935_3717013620879300123_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=90JM-Bau8jkAX9cPi1K&_nc_ht=scontent.fmsq1-1.fna&oh=00_AT-IK0z3g46lu8grp2ybKuu_wJq7USBHD2dIWx9FtvEECA&oe=61ED0799)
+![This is my photo](https://scontent.fmsq1-1.fna.fbcdn.net/v/t1.18169-9/12105786_888215801256935_3717013620879300123_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=90JM-Bau8jkAX9cPi1K&_nc_ht=scontent.fmsq1-1.fna&oh=00_AT-IK0z3g46lu8grp2ybKuu_wJq7USBHD2dIWx9FtvEECA&oe=61ED0799)
 I have been working in the auto business for over 14 years. 2 times passed the way from an ordinary employee to the head of the department. Now I am planning to change my occupation. For myself, I chose the path of a software developer in front-end development. I want to work in a rapidly developing field among a young team that will motivate me to constant self-development. I consider my strong features to be good communication skills, dedication, stress resistance, positive attitude to life. Of the negative traits I can name obstinacy and love of freedom and a constant desire to do more and better than required.
 
 **Skills:**
