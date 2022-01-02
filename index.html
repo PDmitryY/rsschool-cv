@@ -4,9 +4,121 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>CV Petrochenkov</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/favicon.ico">
 </head>
 <body>
-    
+    <header>
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                    <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#languages " class="nav-link">Languages</a></li>
+                </ul>
+            </nav>   
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <section class="section" id="profile">
+                <img src="./assets/my photo.jpg" alt="my photo">
+                <h1>Dmitry Petrochenkov</h1>
+                <h3>Front-End developer</h3>
+            </section>
+            <section class="section" id="contacts">
+                <h2>Contacts</h2>
+                <ul class="contacts-list">
+                    <li class="contacts-item">Mobile: + 375 29 3901653 (Telegram, Viber, Whatsapp)</li>
+                    <li class="contacts-item">Discord: Dmitry Petrochenkov (PDmitryY)#2289</li>
+                    <li class="contacts-item">Skype: p_dmitry_y</li>
+                    <li class="contacts-item">E-mail: p.dmitry.y@gmail.com</li>
+                    <li class="contacts-item">GitHub: PDmitryY</li>
+                </ul>
+            </section>
+            <section class="section" id="summary">
+                <h2>Summary</h2>
+                <p>I have been working in the auto business for over 14 years. 2 times passed the way from an ordinary employee to the head of the department. Now I am planning to change my occupation. For myself, I chose the path of a software developer in front-end development. I want to work in a rapidly developing field among a young team that will motivate me to constant self-development. I consider my strong features to be good communication skills, dedication, stress resistance, positive attitude to life. Of the negative traits I can name obstinacy and love of freedom and a constant desire to do more and better than required.</p>
+            </section>
+            <section class="section" id="skills">
+                <h2>Skills</h2>
+                <ul class="skills-list">
+                    <li class="skills-item">HTML 5</li>
+                    <li class="skills-item">CSS 3 (Framework Bootstrap, Preprocessor SCSS, BEM methodology)</li>
+                    <li class="skills-item">JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES5, ES6+, DOM), jQuery</li>
+                    <li class="skills-item">React JS</li>
+                    <li class="skills-item">JSON</li>
+                    <li class="skills-item">Python (basic knowledge) - Django Framework (basic knowledge)</li>
+                    <li class="skills-item">PHP (basic knowledge)</li>
+                    <li class="skills-item">Version control: Git (remote services: GitHub, GitLab)</li>
+                    <li class="skills-item">Module Bundlers: Webpack</li>
+                    <li class="skills-item">SQLite (basic knowledge)</li>
+                    <li class="skills-item">Version control: Git (remote services: GitHub, GitLab)</li>
+                    <li class="skills-item">Module Bundlers: Webpack</li>
+                    <li class="skills-item">SQL (SQLite and PostgreSQL: basic knowledge)</li>
+                </ul>
+            </section>
+            <section class="section" id="code">
+                <h2>Code</h2>
+                <p>Function Cache KATA from CODEWARS: *If you are calculating complex things or execute time-consuming API calls, you sometimes want to cache the results. In this case we want you to create a function wrapper, which takes a function and caches its results depending on the arguments, that were applied to the function.*</p>
+                <pre>
+                    let arrEqual = function(a, b){
+                        if(!Array.isArray(a) || !Array.isArray(b)){return false;}
+                        if(a.length !== b.length){return false;}
+                        for (let i = 0; i < a.length; i++){
+                            if(a[i] !== b[i]) {return false;}
+                            }
+                        return true;
+                        };
+                </pre>
+            </section>
+            <section class="section" id="courses">
+                <h2>Courses</h2>
+                <ul class="courses-list">
+                    <li class="courses-item">"Современный Front-End с использованием HTML5 и JavaScript" (IT-Academy Belhard) in 2015</li>
+                    <li class="courses-item">JavaScript/Front-End course (RSSchool) in 2018</li>
+                    <li class="courses-item">Online courses, services and books (https://learn.javascript.ru, CS50, Codewars, Checkio...)</li>
+                </ul>
+            </section>
+            <section class="section" id="projects">
+                <h2>Projects</h2>
+                <ul class="projects-list">
+                    <li class="projects-item">https://pdmitryy.github.io/PDmitryY.game.github.io/</li>
+                    <li class="projects-item">https://pdmitryy.github.io/youtube/</li>
+                </ul>
+            </section>
+            <section class="section" id="education">
+                <h2>Education</h2>
+                <ul class="education-list">
+                    <li class="education-item">2002-2007 BNTU</li>
+                    <li class="education-item">2006-2007 IBT Atlant-M</li>
+                </ul>
+            </section>
+            <section class="section" id="languages">
+                <h2>Languages</h2>
+                <ul class="languages-list">
+                    <li class="languages-item">English B1</li>
+                    <li class="languages-item">Belarusian (native)</li>
+                    <li class="languages-item">Russian (native)</li>
+                    <li class="languages-item">Ukrainian (intermediate knowledge)</li>
+                    <li class="languages-item">Polish (basic knowledge)</li>
+                    <li class="languages-item">German (basic knowledge)</li>
+                </ul>
+            </section>
+        </div>
+    </main>     
+    <footer>
+        <div class="container">
+            <div class="footer-item"><p>2022</p></div>
+            <div class="footer-item"><a href="https://github.com/PDmitryY">PDmitryY</a></div>
+            <div class="footer-item"><a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" alt="logo"></a></div>
+        </div>
+    </footer>
 </body>
 </html>
